@@ -1,0 +1,1 @@
+Consiste en que un solo proceso excluye temporalmente a todos los demás para usar un recurso compartido de forma que garantice la integridad del sistema. (Respuesta buscada desde internet... como concepto no lo conocia)

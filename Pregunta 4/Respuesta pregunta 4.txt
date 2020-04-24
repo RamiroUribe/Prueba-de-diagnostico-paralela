@@ -1,0 +1,1 @@
+Es cuando 2 programas comparten flujos de datos.

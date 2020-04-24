@@ -1,0 +1,4 @@
+Select a.name, a.start_date, AVG(b.score), STDEV(b.score), MIN(b.score),Max(b.score)
+From courses a, evaluations 
+Where a.pk=b.pk
+Order by a.name, a.start_date ASC 
